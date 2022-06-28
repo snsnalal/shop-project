@@ -1,29 +1,35 @@
 # 멋쟁이 사자 X EstSoft 익스턴쉽 Backend 1~3주차
 
 ## Package
-
+          
 ```
-main 
-│─────domin
-│     ├───── base
-│     ├───── member
-│     ├───── delivery
-│     ├───── item
-│     ├───── itemImage
-│     ├───── order
-│     └───── orderitem         
-│──── global
-│     ├───── config
-│     └───── error
-│           └───── exception
-│──── infra
-│──── web
-│     ├───── adminitem
-│     ├───── itemdtl
-│     ├───── login
-│     ├───── main
-│     └───── orderhist
-└──── application.yml
+# project-lion-web                 #project-lion-api
+main                                main 
+│─────domin                         │─────api
+│     ├───── base                   │     ├───── health
+│     ├───── member                 │     ├───── interceptor
+│     ├───── delivery               │     ├───── item
+│     ├───── item                   │     └───── login
+│     ├───── itemImage              │─────domin
+│     ├───── order                  │     ├───── base
+│     └───── orderitem              │     ├───── member
+│──── global                        │     ├───── delivery
+│     ├───── config                 │     ├───── item
+│     └───── error                  │     ├───── itemImage
+│           └───── exception        │     ├───── jwt
+│──── infra                         │     ├───── order
+│──── web                           │     └───── orderitem        
+│     ├───── adminitem              │──── global
+│     ├───── itemdtl                │     ├───── config
+│     ├───── login                  │     ├───── util
+│     ├───── main                   │     └───── error
+│     └───── orderhist              │           └───── exception
+└──── application.yml               │──── infra
+                                    │     └───── file
+                                    │──── web
+                                    │     ├───── health
+                                    │     └───── kakaologin
+                                    └──── application.yml
 
 ```
 
