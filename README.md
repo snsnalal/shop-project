@@ -1,4 +1,4 @@
-# 멋쟁이 사자 X EstSoft 익스턴쉽 Backend
+# 쇼핑몰 프로젝트
 
 ## Package
           
