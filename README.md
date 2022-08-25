@@ -36,14 +36,14 @@ main                                main
 ## Tech Stack
 -project-lion-web　　　　　　　　　　　-project-lion-api
 * Spring boot, JPA　　　　　　　　　　* Spring boot, JPA
-* Spring security　　　　　　　　　　　* Lombok
-* JPQL　　　　　　　　　　　　　　　* MariaDB
-* Paging　　　　　　　　　　　　　　* H2 database
-* Lombok　　　　　　　　　　　　　　* swagger
-* MariaDB　　　　　　　　　　　　　　* Git ACtions/AWS EC2/CI/CD
-* thymeleaf　　　　　　　　　　　　　* Feign
-* validator　　　　　　　　　　　　　* Kakao Api
-* ajax　　　　　　　　　　　　　　　　* Jwt token
+* Spring security　　　　　　　　　　 * Lombok
+* JPQL　　　　　　　　　　　　　　　   * MariaDB
+* Paging　　　　　　　　　　　　　　   * H2 database
+* Lombok　　　　　　　　　　　　　　   * swagger
+* MariaDB　　　　　　　　　　　　　　  * Git ACtions/AWS EC2/CI/CD
+* thymeleaf　　　　　　　　　　　　　  * Feign
+* validator　　　　　　　　　　　　　  * Kakao Api
+* ajax　　　　　　　　　　　　　　　　  * Jwt token
 <br>　　　　　　　　　　　　　　　　　　* Interceptor
 ## Architecture
 
