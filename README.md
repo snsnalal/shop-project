@@ -34,7 +34,7 @@ main                                main
 ```
 
 ## Tech Stack
--project-lion-web　　　　　　　　　　　-project-lion-web
+-project-lion-web　　　　　　　　　　　-project-lion-api
 * Spring boot, JPA　　　　　　　　　　* Spring boot, JPA
 * Spring security　　　　　　　　　　　* Lombok
 * JPQL　　　　　　　　　　　　　　　* MariaDB
