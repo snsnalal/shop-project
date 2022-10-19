@@ -80,4 +80,40 @@ main                                main
  * 꼼꼼한 예외처리에 대해서 고민하게 되었습니다.
  * 앞에서 작성했던 코드를 재사용하면서 설계의 중요성에 대해서 알게되었습니다.
 
+## 화면
+
+- 메인 페이지
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/62021242/196667942-e8bdc265-a6d7-40f0-b53e-fd6927f05732.png">
+
+- 구매 이력
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/62021242/196670662-e8bb7721-69b4-49c7-9316-18e8c773b976.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/62021242/196670782-f138fc99-30eb-424e-8b6b-ca42cf439b18.png">
+
+- 상품 페이지
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/62021242/196670952-54cdd883-0460-449e-857b-f6a34b545691.png">
+
+- 상품 등록
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/62021242/196671492-a1a1fdc5-c505-4428-8407-7b1cae49c67d.png">
+
+- 카카오 API 회원 가입
+
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/62021242/196672223-56bc88ca-fa79-4fad-a702-5e5e408fe6e5.png"><img width="1000" alt="image" src="https://user-images.githubusercontent.com/62021242/196672485-4b0b33d9-f13b-48a3-a94a-e720046a5cde.png">
+
+- Postman JWF token 결과
+
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/62021242/196672710-0811c248-2831-4b76-aa94-666385fcb2c3.png">
+
+- 상품 조회 API
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/62021242/196673890-94c85864-cae5-48ba-8822-b534354f0f3c.png">
+
+- 상품 수정 API
+
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/62021242/196674318-fec94357-c51c-4b76-803c-f96c6c5e41bf.png">
+
+
+- Github Actions CI/CD
+
+<img width="1523" alt="image" src="https://user-images.githubusercontent.com/62021242/196673338-96a07629-6d05-48fd-9aa6-c45a476666bc.png">
+
 
